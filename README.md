@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This App is built with React and Redux for Frontend, Strapi Headless CMS for backend and Stripe Checkout for payment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
