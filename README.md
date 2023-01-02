@@ -1,6 +1,6 @@
 # This App is built with React and Redux for Frontend, Strapi Headless CMS for backend and Stripe Checkout for payment
 
-
+## This repo  consist of  main branch(Frontend part) and api branch(backend)
 
 ## Available Scripts
 
